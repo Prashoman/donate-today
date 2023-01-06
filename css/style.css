@@ -80,3 +80,17 @@ header{
     margin-top: 50px;
     margin-bottom: 30px;
 }
+.donate-input{
+    margin-top: 30px;
+    
+}
+.donate-input input{
+    border: none;
+   text-align: center;
+    width: 700px;
+    font-size: 18px;
+    height: 20px;
+    border-bottom: 2px solid black;
+    line-height :28px;
+    outline: none;
+}
